@@ -1,4 +1,4 @@
-### Hi there, I’m Felipe Salazar from Valdivia, Chile.
+### Hi there, I’m Felipe Salazar.
 - :books: Computer Engineering at Universidad Austral de Chile
 - 💪 Full stack developer with experience using Node and React.
 - 📫 You can reach me by email at felipeslzar@gmail.com.
